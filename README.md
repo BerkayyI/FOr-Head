@@ -1,4 +1,4 @@
-# FOr-Head
+# FOre-Head
 Discord Custom Rich Presence
 Go and download the file and run it then go to https://discord.com/developers/applications
 Create an application in discord developers portal
